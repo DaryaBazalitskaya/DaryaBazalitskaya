@@ -38,4 +38,4 @@ Python-разработчик с фокусом на бэкенд (FastAPI, Djan
 
 ## 📬 Связаться со мной
 - Email: mona.kon@yandex.ru
-- Telegram: @novemberr19 (https://t.me/novemberr16)
+- Telegram: @novemberr16 (https://t.me/novemberr16)
