@@ -1,7 +1,7 @@
 ## Привет! Я Дарья 👋
 Python-разработчик с фокусом на бэкенд (FastAPI, Django) и интересом к разработке веб-приложений и API.
 
-### Навыки
+### 💼 Навыки
 
 **Языки и фреймворки:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -34,8 +34,8 @@ Python-разработчик с фокусом на бэкенд (FastAPI, Djan
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-## 🛠️ Проекты
+### 🛠️ Проекты
 
-## 📬 Связаться со мной
+### 📬 Связаться со мной
 - Email: mona.kon@yandex.ru
 - Telegram: @novemberr16 (https://t.me/novemberr16)
